@@ -37,7 +37,6 @@ One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
 ## 🔄 Signal Desk Workflow
 
-```mermaid
 flowchart LR
     A["Configure scan"] --> B["Discover vulnerabilities & ports"]
     B --> C["Inspect or copy results live"]
