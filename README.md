@@ -9,8 +9,6 @@ One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
 **icepick** is a lightweight, powerful, and AI-assisted penetration testing suite designed for precision security assessments. Built by **iceSEC | Cyber Intelligence Operations**, it combines speed, accuracy, and elegance in a single tool.
 
-Version **1.0.0** introduces the professional dark theme, hacker-style cursor with neon ring and particle trail, live matrix rain background, real-time colored logging, and one-click JSON export with security scoring.
-
 ---
 
 ## 🎯 What makes it useful
