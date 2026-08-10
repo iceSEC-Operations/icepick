@@ -1,10 +1,9 @@
-
 # 🧊 icepick
 
 **Advanced Penetration Suite — Precision strikes. Every time.**  
 One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
-فارسی · Download · Report an issue
+[فارسی](#-فارسی) · [Download](https://github.com/iceSEC-Operations/icepick/releases) · [Report an issue](https://github.com/iceSEC-Operations/icepick/issues)
 
 ---
 
@@ -47,7 +46,6 @@ flowchart LR
     B --> D["Stop or finish discovery"]
     D --> E["Review ranked results"]
     E --> F["Export JSON report"]
-```
 
 The desktop interface keeps each responsibility in its own workspace:
 
