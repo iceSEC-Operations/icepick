@@ -506,3 +506,7 @@ class IcePickPro:
 if __name__ == "__main__":
     app = IcePickPro()
     app.run()
+
+    def main():
+        app = IcePickPro()
+        app.run()
