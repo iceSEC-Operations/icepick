@@ -3,7 +3,7 @@
 **Advanced Penetration Suite — Precision strikes. Every time.**  
 One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
-[فارسی](#-فارسی) · [Download](https://github.com/iceSEC-Operations/icepick/releases) · [Report an issue](https://github.com/iceSEC-Operations/icepick/issues)
+[فارسی](https://github.com/iceSEC-Operations/icepick/blob/main/fa.README.md) · [Download](https://github.com/iceSEC-Operations/icepick/releases) · [Report an issue](https://github.com/iceSEC-Operations/icepick/issues)
 
 ---
 
