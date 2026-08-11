@@ -38,19 +38,18 @@ One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
 ## 🔄 Signal Desk Workflow
 
-```mermaid
-flowchart LR
-    A["Configure scan"] --> B["Discover vulnerabilities & ports"]
-    B --> C["Inspect or copy results live"]
-    B --> D["Stop or finish discovery"]
-    D --> E["Review ranked results"]
-    E --> F["Export JSON report"]
+1. **Configure scan** — set target, ports, workers, timeout, and scan options.
+2. **Discover vulnerabilities & ports** — run the scan and find open ports and vulnerabilities.
+3. **Inspect or copy results live** — monitor progress, filter, sort, and copy results at any time.
+4. **Stop or finish discovery** — stop the scan when enough results are found.
+5. **Review ranked results** — see the final list with security scores and risk levels.
+6. **Export JSON report** — save detailed reports with all findings.
 
 The desktop interface keeps each responsibility in its own workspace:
+- **Scan** — configure and start scans.
+- **Results** — monitor and interact with live results.
+- **Export** — save reports with one click.
 
-- **Scan** — configure target, ports, workers, timeout, and scan options.
-- **Results** — monitor progress, filter and sort endpoints, copy results at any time.
-- **Export** — save detailed JSON reports with security scoring.
 
 ---
 
