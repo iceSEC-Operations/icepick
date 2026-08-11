@@ -35,6 +35,7 @@ One tool. Three interfaces: Desktop GUI, CLI, and Android (coming soon).
 
 ---
 
+
 ## 🔄 Signal Desk Workflow
 
 ```mermaid
@@ -220,4 +221,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 <p align="center">
   Made with ❤️ by <strong>iceSEC</strong>
 </p>
-```
+
