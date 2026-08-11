@@ -81,7 +81,7 @@ class IcePickPro:
         right_frame.pack(side=tk.RIGHT, padx=30)
 
         # Version
-        tk.Label(right_frame, text="v1.0.0", font=("Segoe UI", 10, "bold"), fg=FG_YELLOW, bg=BG_DARK).pack(anchor=tk.E)
+        tk.Label(right_frame, text="v1.0.1", font=("Segoe UI", 10, "bold"), fg=FG_YELLOW, bg=BG_DARK).pack(anchor=tk.E)
         tk.Label(right_frame, text="by iceSEC", font=("Segoe UI", 8), fg=FG_BLUE, bg=BG_DARK).pack(anchor=tk.E)
 
         # Social links (clickable)
